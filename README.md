@@ -58,8 +58,7 @@ A Project Zomboid mod that adds a **Vehicle Automatic Scanner**—a mechanics le
 
 ## Mod ID
 
-`VehicleAutomaticScanner`
+- **Workshop ID:** 3663979721  
+- **Mod ID:** VehicleAutomaticScanner  
 
-Use this ID when enabling the mod on dedicated servers or in multiplayer.
-Workshop ID: 3663979721 
-Mod ID: VehicleAutomaticScanner
+Use these when enabling the mod on dedicated servers or in multiplayer.
