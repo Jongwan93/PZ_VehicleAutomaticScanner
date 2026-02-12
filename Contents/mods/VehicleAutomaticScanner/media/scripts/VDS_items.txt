@@ -1,0 +1,12 @@
+module Base
+{
+    item VehicleScanner
+    {
+        Type = Normal,
+        DisplayName = Vehicle Diagnostic Scanner,
+        Icon = VehicleScanner,
+        Weight = 0.5,
+        AttachmentType = Walkie,
+        StaticModel = WalkieTalkieTactical,
+    }
+}
