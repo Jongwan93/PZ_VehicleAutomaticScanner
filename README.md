@@ -1,3 +1,5 @@
+https://steamcommunity.com/sharedfiles/filedetails/?id=3663979721&searchtext=
+
 # Vehicle Automatic Scanner
 
 A Project Zomboid mod that adds a **Vehicle Automatic Scanner**—a mechanics level–based device to quickly check nearby vehicle condition without opening the mechanics overlay.
