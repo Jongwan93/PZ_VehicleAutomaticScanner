@@ -1,5 +1,3 @@
-https://steamcommunity.com/sharedfiles/filedetails/?id=3663979721&searchtext=
-
 # Vehicle Automatic Scanner
 
 A Project Zomboid mod that adds a **Vehicle Automatic Scanner**—a mechanics level–based device to quickly check nearby vehicle condition without opening the mechanics overlay.
@@ -62,5 +60,6 @@ A Project Zomboid mod that adds a **Vehicle Automatic Scanner**—a mechanics le
 
 - **Workshop ID:** 3663979721  
 - **Mod ID:** VehicleAutomaticScanner  
-
+- **Steam Link:** https://steamcommunity.com/sharedfiles/filedetails/?id=3663979721&searchtext=
+  
 Use these when enabling the mod on dedicated servers or in multiplayer.
