@@ -4,9 +4,12 @@ module Base
     {
         Type = Normal,
         DisplayName = Vehicle Diagnostic Scanner,
+        DisplayCategory = Electronics,
         Icon = VehicleScanner,
-        Weight = 0.5,
+        ScaleWorldIcon = 0.05,
+        Weight = 0.2,
         AttachmentType = Walkie,
-        StaticModel = WalkieTalkieTactical,
+        StaticModel = WalkieTalkie,
+        WorldStaticModel = WalkieTalkie,
     }
 }
